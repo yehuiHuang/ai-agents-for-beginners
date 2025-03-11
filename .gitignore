@@ -3,6 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# DS_store
+.DS_Store
+.idea/
+01-intro-to-ai-agents/.DS_Store
+
 # User-specific files
 *.rsuser
 *.suo
